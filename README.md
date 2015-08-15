@@ -4,6 +4,11 @@ So programmiert ihr das Recycler View, die neue Form des List Views!
 - [Tutorial auf YouTube](http://youtu.be/3CG-iXdje6E)
 - Projekt für Android Studio
 
+Gradle-Zeile für das Recycler View: 
+````gradle
+compile 'com.android.support:recyclerview-v7:22.2.1'
+````
+
 <b>SCREENSHOTS:</b>
 
 <img src="https://github.com/derAndroidPro/RecyclerViewTutorial1/blob/master/device-2015-08-08-194233.png" height="500px"/>
