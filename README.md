@@ -1,7 +1,7 @@
 # Recycler View Tutorial (Teil 1)
 So programmiert ihr das Recycler View, die neue Form des List Views!
 
-- [Tutorial auf YouTube](http://youtu.be/3CG-iXdje6E)
+- [Tutorial auf YouTube](http://youtu.be/3CG-iXdje6E){:target="_blank"}
 - Projekt für Android Studio
 
 Gradle-Zeile für das Recycler View: 
