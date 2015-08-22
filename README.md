@@ -8,6 +8,7 @@ Gradle-Zeile für das Recycler View:
 ````gradle
 compile 'com.android.support:recyclerview-v7:22.2.1'
 ````
+[<b>Teil 2</b> (Items hinzufügen / entfernen | Rasteransicht)](https://github.com/derAndroidPro/RecyclerViewTutorial_Part2)
 
 <b>SCREENSHOTS:</b>
 
